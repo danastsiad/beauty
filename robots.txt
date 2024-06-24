@@ -1,0 +1,11 @@
+User-agent: YandexBot
+Allow: /
+Disallow: /beauty/auth.html
+Disallow: /beauty/reg.html
+Crawl-delay: 604800
+
+User-agent: Googlebot
+Allow: /
+Disallow: /beauty/auth.html
+Disallow: /beauty/reg.html
+Crawl-delay: 604800
